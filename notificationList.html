@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+    <title>מיחזורון-ההתראות שלי</title>
+         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.min.js"></script>
+		<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+	    var userName=localStorage.getItem("user");
+
+function logout()
+{
+    localStorage.removeItem("user");
+    window.location="index.html";
+
+}
+	</script>
+	<style>
+	
+	#numOfNotifications
+	{
+	    position:relative;
+	    z-index:1;
+	    margin-left:8px;
+	    margin-top:2px;
+	    font-size:16px;
+	 
+	}
+	</style>
+</head>
+
+<body>
+    <div class="main-wrapper">
+         <div class="header">
+            <div class="header-left">
+                <a href="index.html" class="logo">
+                      <img src="assets/img/logo2.jpg" width="60" height="50" alt="">
+                </a>
+            </div>
+            <div class="page-title-box pull-left">
+               <span id="updateNumOfNotifications"></span>
+                <h3 >מיחזורון</h3>
+            </div>
+            <a id="mobile_btn" class="mobile_btn pull-left" href="#sidebar"><i class="fa fa-bars" aria-hidden="true"></i></a>
+
+            <div class="dropdown mobile-user-menu pull-right">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-ellipsis-v"></i></a>
+                <div class="dropdown-menu dropdown-menu-right">
+                    <a class="dropdown-item" href="profile.html">הפרופיל שלי</a>
+                   
+                   
+                    <a class="dropdown-item" onclick="logout()">התנתק</a>
+                </div>
+            </div>
+             <!-- try to add notifications-->
+            
+                 <li class="dropdown mobile-user-menu" style="margin-left:35px;">
+                     <span class="badge badge-pill bg-primary pull-right" id="numOfNotifications"></span>
+                    <a href="#" class="dropdown-toggle nav-link" style="position:absolute;" data-toggle="dropdown" id="notificationButton"><i class="fa fa-bell-o"></i> </a>
+                    <div class="dropdown-menu notifications">
+                        <div class="topnav-dropdown-header">
+                            <span>התראות</span>
+                        </div>
+                        <div class="drop-scroll">
+                            <ul class="notification-list" id="notificationList">
+                                
+                              
+                
+                               
+                            </ul>
+                        </div>
+                        <div class="topnav-dropdown-footer">
+                            <a href="notificationList.html">הצג הכל</a>
+                        </div>
+                    </div>
+                </li>
+            
+            <!-- end try-->
+        </div>
+        <div class="sidebar" id="sidebar">
+            <div class="sidebar-inner slimscroll">
+                <div id="sidebar-menu" class="sidebar-menu">
+                         <ul>
+                        <li class="menu-title">
+                            ניווט
+                        </li>
+                        <li >
+                            <a href="index.html"><i class="fas fa-home"></i> דף הבית</a>
+                        </li>
+                        <li>
+                            <a href="feed.html"><i class="fa fa-recycle" aria-hidden="true"></i><b>פיד </b></a>
+                        </li>
+                        <li>
+                             <a href="myPosts.html"><i class="fas fa-comment-dollar"></i>
+                             מיחזורים שפרסמתי
+                             </a>
+                        </li>
+                        <li>
+                                   <a href="paidRec.html"><i class="fas fa-file-invoice-dollar"></i>
+מיחזורים שקניתי
+                             </a>
+                        </li>
+                        <li>
+                             <a href="profile.html"><i class="fas fa-user"></i>
+                            הפרופיל שלי            
+                             </a>
+                        </li>
+                         <li>
+                             <a href="help.html"><i class="fa fa-info"></i>
+                            עזרה            
+                             </a>
+                        </li>
+                          <li>
+                             <a href="faq.html"> <i class="far fa-question-circle"></i>
+                           שאלות ותשובות           
+                             </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="page-wrapper">
+            <div class="content container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h4 class="page-title">התראות</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="activity">
+                            <div class="activity-box">
+                                <ul class="activity-list" id="loadNotification">
+                                    
+                                    
+                                    
+                                      </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          
+        </div>
+    </div>
+    <div class="sidebar-overlay" data-reff=""></div>
+    <script type="text/javascript" src="assets/js/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="assets/js/popper.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.slimscroll.js"></script>
+    <script type="text/javascript" src="assets/js/app.js"></script>
+         <script>
+        
+
+         $(document).ready(function(){
+
+	       
+	   //var userName=localStorage.getItem("user");
+	   $("#loadNotification").load("http://eavni93.com/app/notificationList.php", {
+        userName:userName
+        
+    });
+
+
+        setInterval(function()
+{ 
+
+   $("#numOfNotifications").load("http://eavni93.com/itay/notifications.php", {
+        action:"countNotifications",
+       userName:userName
+       
+        
+    });
+    
+      $("#notificationList").load("http://eavni93.com/itay/notifications.php", {
+                userName:userName,
+               action:"showNotifications"
+
+
+
+        
+    });
+
+
+
+},2000);
+
+//clear notifications after user clicked
+
+$("#notificationButton").click(function(){
+    
+    
+ $("#updateNumOfNotifications").load("http://eavni93.com/itay/notifications.php", {
+                userName:userName,
+               action:"clearNotifications"
+    
+});
+
+
+
+});
+         });
+    
+        
+    </script>
+    </body>
+
+</html>
+                                    

@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo2.jpg">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <title>דף הבית</title>
+   
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/fullcalendar.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/plugins/morris/morris.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.min.js"></script>
+		<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+	    var userName=localStorage.getItem("user");
+
+function logout()
+{
+    localStorage.removeItem("user");
+    window.location="index.html";
+
+}
+	</script>
+	<style>
+	
+
+	
+	#numOfNotifications
+	{
+	    position:relative;
+	    z-index:1;
+	    margin-left:8px;
+	    margin-top:2px;
+	    font-size:16px;
+	 
+	}
+	</style>
+</head>
+
+<body>
+    <script>
+     $(document).ready(function(){
+     $.post("eavni93.com/app/ChartDemo.php",
+    {
+      name: userName
+      
+    });
+     });
+    </script>
+    <div class="main-wrapper">
+         <div class="header">
+            <div class="header-left">
+                <a href="index.html" class="logo">
+                      <img src="assets/img/logo2.jpg" width="60" height="50" alt="">
+                </a>
+            </div>
+            <div class="page-title-box pull-left">
+               <span id="updateNumOfNotifications"></span>
+                <h3 >מיחזורון</h3>
+            </div>
+            <a id="mobile_btn" class="mobile_btn pull-left" href="#sidebar"><i class="fa fa-bars" aria-hidden="true"></i></a>
+
+           <div class="dropdown mobile-user-menu pull-right">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-ellipsis-v"></i></a>
+                <div class="dropdown-menu dropdown-menu-right">
+                    <a class="dropdown-item" href="profile.html">הפרופיל שלי</a>
+                   
+                   
+                    <a class="dropdown-item" onclick="logout()">התנתק</a>
+                </div>
+            </div>
+             <!-- try to add notifications-->
+            
+                 <li class="dropdown mobile-user-menu" style="margin-left:35px;">
+                     <span class="badge badge-pill bg-primary pull-right" id="numOfNotifications"></span>
+                    <a href="#" class="dropdown-toggle nav-link" style="position:absolute;" data-toggle="dropdown" id="notificationButton"><i class="fa fa-bell-o"></i> </a>
+                    <div class="dropdown-menu notifications">
+                        <div class="topnav-dropdown-header">
+                            <span>התראות</span>
+                        </div>
+                        <div class="drop-scroll">
+                            <ul class="notification-list" id="notificationList">
+                                
+                              
+                
+                               
+                            </ul>
+                        </div>
+                        <div class="topnav-dropdown-footer">
+                            <a href="notificationList.html">הצג הכל</a>
+                        </div>
+                    </div>
+                </li>
+            
+            <!-- end try-->
+        </div>
+        <div class="sidebar" id="sidebar">
+            <div class="sidebar-inner slimscroll">
+                <div id="sidebar-menu" class="sidebar-menu">
+                         <ul>
+                        <li class="menu-title">
+                            ניווט
+                        </li>
+                        <li  class="active" >
+                            <a href="index.html"><i class="fas fa-home"></i> דף הבית</a>
+                        </li>
+                        <li>
+                            <a href="feed.html"><i class="fa fa-recycle" aria-hidden="true"></i><b>פיד </b></a>
+                        </li>
+                        <li>
+                             <a href="myPosts.html"><i class="fas fa-comment-dollar"></i>
+                             מיחזורים שפרסמתי
+                             </a>
+                        </li>
+                        <li>
+                                   <a href="paidRec.html"><i class="fas fa-file-invoice-dollar"></i>
+מיחזורים שקניתי
+                             </a>
+                        </li>
+                        <li>
+                             <a href="profile.html"><i class="fas fa-user"></i>
+                            הפרופיל שלי            
+                             </a>
+                        </li>
+                         <li>
+                             <a href="help.html"><i class="fa fa-info"></i>
+                            עזרה            
+                             </a>
+                        </li>
+                          <li>
+                             <a href="faq.html"> <i class="far fa-question-circle"></i>
+                           שאלות ותשובות           
+                             </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="page-wrapper">
+            <div class="content container-fluid">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
+                        <div class="dash-widget dash-widget5">
+                            <span class="dash-widget-icon bg-success"><i class="fa fa-money" aria-hidden="true"></i></span>
+                            <div class="dash-widget-info">
+                                <h4>
+                                    <span id="loadRev"></span>
+                                   
+                                    
+                                </h4>
+                                <span>
+                                    רווח משוער
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
+                        <div class="dash-widget dash-widget5">
+                            <span class="dash-widget-icon bg-info"><i class="fa fa-user-o" aria-hidden="true"></i></span>
+                            <div class="dash-widget-info">
+                                <h4 id="loadPosts">
+                                    
+                                   
+                        
+                                    
+                                </h4>
+                              <span>
+                                  מחזורים שפרסמתי
+                              </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
+                        <div class="dash-widget dash-widget5">
+                            <span class="dash-widget-icon bg-warning"><i class="fa fa-files-o"></i></span>
+                            <div class="dash-widget-info">
+                                <h4 id="loadPaid">
+                                    
+                                    
+                                </h4>
+                               <span>
+                                   
+                                   מחזורים שקניתי
+                               </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
+                        <div class="dash-widget dash-widget5">
+                            <span class="dash-widget-icon bg-danger"><i class="fa fa-tasks" aria-hidden="true"></i></span>
+                            <div class="dash-widget-info">
+                                <h4 id="loadPostToday">
+                                   
+                                    
+                                </h4>
+                                <span>
+                                    
+                                    מחזורים היום
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+<!--<div class="row">
+                    <div class="col-md-12">
+                        <div class="card-box">
+                          <iframe src="ChartDemo.php" height="400" width="100%"></iframe> 
+                          <iframe id="loadIframe"></iframe>
+                         
+                        </div>
+                    </div>
+                </div>-->
+                
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card activity-panel">
+                            <div class="card-body">
+                                <h4 class="card-title">מיחזורים אחרונים</h4>
+                                <div class="activity-box">
+                                    <ul class="activity-list">
+                                          <div class="contacts-list">
+                                                <ul class="contact-list" id="loadFeed">
+                                       
+                                                </ul>
+                                            </div>                                      
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-footer text-center bg-white">
+                                <a href="feed.html" class="text-muted">
+                                    צפייה בכל המיחזורים
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card activity-panel">
+                            <div class="card-body">
+                                <h4 class="card-title">מידע נוסף </h4>
+                                <div class="activity-box">
+                                    <ul class="activity-list">
+                                          <div class="contacts-list">
+                                                <ul class="contact-list">
+                                       <h4 class="card-title">הרמה שלך :</h4>
+                               <div class="staff-id" id="loadLevel">
+                                    </div>
+                                  
+                                        
+                                           <div class="staff-id"> 
+                                                  </div> 
+                                                
+                       <!-- גודל  -->       
+                     
+                         <hr>
+                         
+                         <h3> עזרה</h3>
+                         <a href="help.html"><i class="fa fa-info fa-3x"></i>
+                           <br> לחץ כאן לעזרה             
+                             </a>
+                             
+                            <hr>
+                            <a href ="faq.html"><i class="far fa-question-circle fa-3x"></i>
+
+ <br>
+                            שאלות ותשובות
+                            </a>
+                                                </ul>
+                                            </div>                                      
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-footer text-center bg-white">
+                                <a href="profile.html" class="text-muted">
+                           צפייה בפרופיל שלי
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                  
+                </div>
+               
+               
+               
+            </div>
+           
+        </div>
+    </div>
+    <div class="sidebar-overlay" data-reff=""></div>
+    <script type="text/javascript" src="assets/js/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="assets/js/popper.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.slimscroll.js"></script>
+    <script type="text/javascript" src="assets/js/select2.min.js"></script>
+    <script type="text/javascript" src="assets/js/moment.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap-datetimepicker.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/morris/morris.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/raphael/raphael-min.js"></script>
+    <script type="text/javascript" src="assets/js/app.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script>
+    
+     $(document).ready(function(){
+	       
+	   //var userName=localStorage.getItem("user");
+	   $("#loadRev").load("http://eavni93.com/app/homePage.php?rev=true", {
+        userName:userName
+        
+    });
+    $("#loadPosts").load("http://eavni93.com/app/homePage.php?posts=true", {
+        userName:userName
+        
+    });
+   /* $("#loadIframe").load("http://eavni93.com/app/ChartDemo.php", {
+        userName:userName
+        
+    });*/
+    
+    $("#loadPaid").load("http://eavni93.com/app/homePage.php?paid=true", {
+        userName:userName
+        
+    });
+     $("#loadPostToday").load("http://eavni93.com/app/homePage.php?today=true", {
+        userName:userName
+        
+    });
+     $("#loadFeed").load("http://eavni93.com/app/homePage.php?feed=true", {
+        userName:userName
+        
+    });
+     $("#loadLevel").load("http://eavni93.com/app/homePage.php?level=true", {
+        userName:userName
+        
+    });
+    
+     setInterval(function()
+{ 
+
+   $("#numOfNotifications").load("http://eavni93.com/itay/notifications.php", {
+        action:"countNotifications",
+       userName:userName
+       
+        
+    });
+    
+      $("#notificationList").load("http://eavni93.com/itay/notifications.php", {
+                userName:userName,
+               action:"showNotifications"
+
+
+
+        
+    });
+
+
+
+},2000);
+
+//clear notifications after user clicked
+
+$("#notificationButton").click(function(){
+    
+    
+ $("#updateNumOfNotifications").load("http://eavni93.com/itay/notifications.php", {
+                userName:userName,
+               action:"clearNotifications"
+    
+});
+
+
+
+});
+    
+    document.getElementById("name").innerHTML = localStorage.getItem("user");
+     
+         
+         
+     });
+    
+
+     </script>
+</body>
+
+</html>

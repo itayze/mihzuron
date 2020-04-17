@@ -1,0 +1,464 @@
+
+[05-Jan-2020 19:27:23 UTC] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home/eavnicom/public_html/app/forgot-password.php on line 70
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:24:13 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:24:13 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: city in /home/eavnicom/public_html/app/profile.php on line 48
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: housenum in /home/eavnicom/public_html/app/profile.php on line 54
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: userName in /home/eavnicom/public_html/app/profile.php on line 62
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: email in /home/eavnicom/public_html/app/profile.php on line 69
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: check in /home/eavnicom/public_html/app/profile.php on line 75
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: action in /home/eavnicom/public_html/app/profile.php on line 109
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: street in /home/eavnicom/public_html/app/profile.php on line 146
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: pic in /home/eavnicom/public_html/app/profile.php on line 153
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: tel in /home/eavnicom/public_html/app/profile.php on line 40
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: city in /home/eavnicom/public_html/app/profile.php on line 48
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: userName in /home/eavnicom/public_html/app/profile.php on line 62
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: email in /home/eavnicom/public_html/app/profile.php on line 69
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: check in /home/eavnicom/public_html/app/profile.php on line 75
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: action in /home/eavnicom/public_html/app/profile.php on line 109
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: street in /home/eavnicom/public_html/app/profile.php on line 146
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: pic in /home/eavnicom/public_html/app/profile.php on line 153
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: tel in /home/eavnicom/public_html/app/profile.php on line 40
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: city in /home/eavnicom/public_html/app/profile.php on line 48
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: housenum in /home/eavnicom/public_html/app/profile.php on line 54
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: userName in /home/eavnicom/public_html/app/profile.php on line 62
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: check in /home/eavnicom/public_html/app/profile.php on line 75
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: action in /home/eavnicom/public_html/app/profile.php on line 109
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: street in /home/eavnicom/public_html/app/profile.php on line 146
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: pic in /home/eavnicom/public_html/app/profile.php on line 153
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: tel in /home/eavnicom/public_html/app/profile.php on line 40
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: city in /home/eavnicom/public_html/app/profile.php on line 48
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: housenum in /home/eavnicom/public_html/app/profile.php on line 54
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: userName in /home/eavnicom/public_html/app/profile.php on line 62
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: email in /home/eavnicom/public_html/app/profile.php on line 69
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: action in /home/eavnicom/public_html/app/profile.php on line 109
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: street in /home/eavnicom/public_html/app/profile.php on line 146
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: pic in /home/eavnicom/public_html/app/profile.php on line 153
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: tel in /home/eavnicom/public_html/app/profile.php on line 40
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: city in /home/eavnicom/public_html/app/profile.php on line 48
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: housenum in /home/eavnicom/public_html/app/profile.php on line 54
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: userName in /home/eavnicom/public_html/app/profile.php on line 62
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: email in /home/eavnicom/public_html/app/profile.php on line 69
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: check in /home/eavnicom/public_html/app/profile.php on line 75
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: action in /home/eavnicom/public_html/app/profile.php on line 109
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: pic in /home/eavnicom/public_html/app/profile.php on line 153
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: tel in /home/eavnicom/public_html/app/profile.php on line 40
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: city in /home/eavnicom/public_html/app/profile.php on line 48
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: housenum in /home/eavnicom/public_html/app/profile.php on line 54
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: email in /home/eavnicom/public_html/app/profile.php on line 69
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: check in /home/eavnicom/public_html/app/profile.php on line 75
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: action in /home/eavnicom/public_html/app/profile.php on line 109
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: street in /home/eavnicom/public_html/app/profile.php on line 146
+[16-Jan-2020 15:24:52 UTC] PHP Notice:  Undefined index: pic in /home/eavnicom/public_html/app/profile.php on line 153
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:24:57 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:24:57 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:26:12 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:26:12 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[16-Jan-2020 15:26:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:14 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[16-Jan-2020 15:26:15 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[16-Jan-2020 15:26:15 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[16-Jan-2020 15:26:15 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[16-Jan-2020 15:26:15 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[16-Jan-2020 15:26:15 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[22-Jan-2020 07:40:35 UTC] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home/eavnicom/public_html/app/forgot-password.php on line 70
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[30-Jan-2020 12:15:33 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:15:33 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 36
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 38
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 39
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/homePage.php on line 47
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 131
+[30-Jan-2020 12:16:17 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/homePage.php on line 132
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: level in /home/eavnicom/public_html/app/homePage.php on line 146
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: rev in /home/eavnicom/public_html/app/homePage.php on line 64
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: posts in /home/eavnicom/public_html/app/homePage.php on line 87
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: paid in /home/eavnicom/public_html/app/homePage.php on line 93
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: today in /home/eavnicom/public_html/app/homePage.php on line 99
+[30-Jan-2020 12:16:17 UTC] PHP Notice:  Undefined index: feed in /home/eavnicom/public_html/app/homePage.php on line 105
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 125
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 127
+[30-Jan-2020 12:16:23 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC +1', we selected the timezone 'UTC' for now. in /home/eavnicom/public_html/app/feed.php on line 128
+[30-Jan-2020 12:16:23 UTC] PHP Notice:  Undefined variable: isYesterday in /home/eavnicom/public_html/app/feed.php on line 136
+[31-Jan-2020 02:00:49 UTC] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home/eavnicom/public_html/app/forgot-password.php on line 70
